@@ -42,7 +42,12 @@ For this Deliverable, I created an AWS RDS with the tables created/framed in pgA
 ![pg_vine_table](https://user-images.githubusercontent.com/8845050/181963776-b96eebc7-e913-4564-8ca3-769cb20a03f6.PNG)
 
 
-# Deliverable 2:  
+# Deliverable 2: 
+
+Using Pyspark (Google Collaboratory), I calculated whether or not there was any bias towards reviews that were written as part of the Vine Program and if having a PAID VINE REVIEW made any difference in the percentage of 5-star reviews.
+
+* For Deliverable 2, there were:
+  * 
 
 
 
