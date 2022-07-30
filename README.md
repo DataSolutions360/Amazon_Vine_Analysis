@@ -24,7 +24,7 @@ For this Deliverable, I created an AWS RDS with the tables created/framed in pgA
 ### Vine DataFrame
 ![image](https://user-images.githubusercontent.com/8845050/181936277-63667428-2dd1-4649-9892-4a5222ecf070.png)
 
-### From PgAdmin-------------------------------------------------------------------------------------------------
+### From PgAdmin----------------------------------------------------------------------
 
 ### Customers Table:
 ![pg_customers_table](https://user-images.githubusercontent.com/8845050/181962011-c44d85a0-686a-4a1e-9e93-5ed441bbf9d8.PNG)
