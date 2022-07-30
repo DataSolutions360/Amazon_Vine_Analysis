@@ -24,4 +24,29 @@ For this Deliverable, I created an AWS RDS with the tables created/framed in pgA
 ### Vine DataFrame
 ![image](https://user-images.githubusercontent.com/8845050/181936277-63667428-2dd1-4649-9892-4a5222ecf070.png)
 
+### From PgAdmin-------------------------------------------------------------------------------------------------
+
+### Customers Table:
+![pg_customers_table](https://user-images.githubusercontent.com/8845050/181962011-c44d85a0-686a-4a1e-9e93-5ed441bbf9d8.PNG)
+
+### Products Table:
+
+![pg_product_table](https://user-images.githubusercontent.com/8845050/181962260-e60f6e8b-9ad4-40a6-a715-992947e4304e.PNG)
+
+### Review ID Table:
+
+![pg_review_id](https://user-images.githubusercontent.com/8845050/181962918-66d1fba9-cc5d-45f2-83ae-36b201be87f2.PNG)
+
+### Vine Table:
+
+![pg_vine_table](https://user-images.githubusercontent.com/8845050/181963776-b96eebc7-e913-4564-8ca3-769cb20a03f6.PNG)
+
+
+# Deliverable 2:  
+
+
+
+
+
+
 
