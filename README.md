@@ -6,6 +6,6 @@ The purpose of this analysis is to choose from 50 different datasets for AMAZON 
 
 ## Results
 
-##Deliverable 1:  Perform ETL on Amazon Product Reviews
+## Deliverable 1:  Perform ETL on Amazon Product Reviews
 
 For this Deliverable, I created an AWS RDS(database) with the tables created/framed in pgAdmin, awaiting data to be written in to their respective tables.
