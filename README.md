@@ -41,6 +41,13 @@ For this Deliverable, I created an AWS RDS with the tables created/framed in pgA
 
 ![pg_vine_table](https://user-images.githubusercontent.com/8845050/181963776-b96eebc7-e913-4564-8ca3-769cb20a03f6.PNG)
 
+### Non-Vine(N) Table:
+
+![image](https://user-images.githubusercontent.com/8845050/181995932-6b2c99f5-53e2-410b-b2ef-f8d1fba1b1f4.png)
+
+### Vine(Y) Table:
+
+![image](https://user-images.githubusercontent.com/8845050/181995916-12e81afb-1415-4b3c-8834-665f8fb5f0d1.png)
 
 # Deliverable 2: 
 
