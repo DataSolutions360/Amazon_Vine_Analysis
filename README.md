@@ -12,10 +12,10 @@ For this Deliverable, I created an AWS RDS with the tables created/framed in pgA
 
 ![image](https://user-images.githubusercontent.com/8845050/181936030-9710e4d8-eeec-45be-8719-d63f8b7b7ac9.png)
 
-### Customer Dataframe###
+### Customer Dataframe
 ![image](https://user-images.githubusercontent.com/8845050/181936137-f800c107-bc5a-43fc-a879-1a2ce790323e.png)
 
-### Products DataFrame###
+### Products DataFrame
 ![image](https://user-images.githubusercontent.com/8845050/181936201-4aa9a8af-98c8-4006-a10f-4c1126ed91c0.png)
 
 ### Review_ID DataFrame
