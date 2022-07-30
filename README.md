@@ -47,7 +47,25 @@ For this Deliverable, I created an AWS RDS with the tables created/framed in pgA
 Using Pyspark (Google Collaboratory), I calculated whether or not there was any bias towards reviews that were written as part of the Vine Program and if having a PAID VINE REVIEW made any difference in the percentage of 5-star reviews.
 
 * For Deliverable 2, there were:
-  * 
+  * Total Vine Reviews: 47
+  * Total Non-Vine Reviews: 8362
+  * Total Vine 5-star reviews: 15
+  * Total Non-Vine 5-star reviews: 4332
+  * Percentage of Vine 5-star reviews = (5 star Vine / Total Vine) = 31.92%
+  * Percentage of Non-Vine 5-star reviews = (5 star Non-Vine / Total Non-Vine) = 51.81%
+
+# Summary
+
+According to the data, despite the Vine percentage being around 32", there is not correlated bias with "Paid reviews equating to higher ratings(stars)". because NON-PAID has a 5-star rating of roughly 52%, which is higher than the 5-star/paid ratio.  The only further analysis I would like to see is that there is more data(counts) in the TOTAL PAID REVIEWS.  A sample of just 47 may not give a clear picture, but conceding to a T Test showing that the sample is a good representation of the population, then I would agree that there is NO BIAS within the data on given PAID-NON-PAID reviews.
+
+Visualizations of a tsacked bar chart or bubble chart would show the important factors that we may not be looking at in this simple analysis.   Expanding the analysis fields to capture more data, or using a larger sample size would shed more light and give further confidence to the results.
+
+# Resources
+
+ * Google Colaboratory
+ * pgAdmin 4
+ * PySpark version 3.3.0
+
 
 
 
